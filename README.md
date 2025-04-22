@@ -9,16 +9,16 @@ Order : OrderID ,OrderDate ,Order Priority
  Metrrics : Sales,Quantity,Discount,Profit
 # Business Requirements
 # KPI's Requirements :-
->Total Sales
->Total Profit
->Total Quantity Sold
+>Total Sales,
+>Total Profit,
+>Total Quantity Sold,
 >Total Shipping Cost
 
 # Other Requirements :-
->Calculate Total Sales by Each Segments(Consumer,Corporate,HomeOffice)
->Calculate Total Sales in Market
->Calculate The Sum Of Sales in each ShipMode
->Show Bottom 5 countries As Per Sales and the Amount As well
+>Calculate Total Sales by Each Segments(Consumer,Corporate,HomeOffice),
+>Calculate Total Sales in Market,
+>Calculate The Sum Of Sales in each ShipMode,
+>Show Bottom 5 countries As Per Sales and the Amount As well,
 >Show Top 3 States Where We got Maximum sales
 # Dashboard As Per Requirements
 ![Screenshot 2025-04-21 132232](https://github.com/user-attachments/assets/0346f6f1-6124-41bd-bae3-5dcf669deaf6)
