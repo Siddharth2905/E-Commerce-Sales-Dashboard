@@ -2,18 +2,19 @@
 Dashboard that describes insights about online product sales of a E-Commerce Site ,Built Using POWER BI Showcases business requirements through KPI'S And Different Kind of Charts
 # Dataset Information
 Order : OrderID ,OrderDate ,Order Priority
-Customer : CustomerID, CustomerName
-Product : ProductID,ProductName,Category,Sub-category
-Shipping : ShipMode, ShipDate, Shipping cost
-Address : Country,State,City,Region,Segment,PostalCode
-Metrrics : Sales,Quantity,Discount,Profit
+ Customer : CustomerID, CustomerName
+ Product : ProductID,ProductName,Category,Sub-category
+ Shipping : ShipMode, ShipDate, Shipping cost
+ Address : Country,State,City,Region,Segment,PostalCode
+ Metrrics : Sales,Quantity,Discount,Profit
 # Business Requirements
-KPI's Requirements :-
+# KPI's Requirements :-
 >Total Sales
 >Total Profit
 >Total Quantity Sold
 >Total Shipping Cost
-Other Requirements :-
+
+# Other Requirements :-
 >Calculate Total Sales by Each Segments(Consumer,Corporate,HomeOffice)
 >Calculate Total Sales in Market
 >Calculate The Sum Of Sales in each ShipMode
